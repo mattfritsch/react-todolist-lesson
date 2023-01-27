@@ -1,0 +1,32 @@
+.todo-list-designed {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 8px;
+}
+
+.todo-list-designed-add {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+
+.todo-list-designed-add-column{
+    display: flex;
+    flex-direction: row;
+}
+
+.todo-list-designed-add-item{
+    display: flex;
+    flex-direction: row;
+}
+
+.todo-list-designed-columns{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+
+.todo-list-designed-column{
+    padding: 2vw;
+}
